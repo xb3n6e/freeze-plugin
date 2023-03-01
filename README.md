@@ -1,4 +1,4 @@
-# freeze-plugin
+# Freeze Plugin
 Simple freeze plugin for Minecraft servers
 
 # Use
